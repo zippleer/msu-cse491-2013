@@ -35,6 +35,8 @@ existence).  You can run these like so::
    cd series_mod
    python2.7 example.py
 
+`Survey link <https://docs.google.com/spreadsheet/viewform?formkey=dEtLblRmQUplWXZFUl9QelpNVXZIelE6MA#gid=0>`__
+
 Exercise #2
 ~~~~~~~~~~~
 
