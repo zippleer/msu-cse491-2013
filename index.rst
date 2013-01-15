@@ -6,6 +6,8 @@
 Welcome to the labibi demo site!
 ================================
 
+This is a test.
+
 .. toctree::
    :maxdepth: 2
 
