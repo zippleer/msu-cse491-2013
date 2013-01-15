@@ -11,7 +11,7 @@ browser or on
 you can check this out on the CSE cluster by doing this::
 
    cd ~/
-   git clone https://github.com/ctb/cse491-numberz
+   git clone https://github.com/ctb/cse491-numberz.git
 
 This will create a directory 'cse491-numberz', into which you should change::
 
