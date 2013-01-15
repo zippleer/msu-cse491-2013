@@ -19,7 +19,7 @@ Office hours: TBA
 In this course, you will learn how the Web works by writing a Web
 server and some Web applications.  More generally, we will discuss
 concepts in client-server and peer-to-peer architectures and how all
-of this technology works “under the hood” on today’s Internet.  We’ll
+of this technology works "under the hood" on today's Internet.  We’ll
 also discuss issues and approaches to developing software with an eye
 to maintainability, and learn about the practical separation of
 concerns in Web application stacks, from browser through server.
