@@ -35,6 +35,9 @@ existence).  You can run these like so::
    cd series_mod
    python2.7 example.py
 
+(At the end of this exercise, we'll give you a link to some questions
+to answer in singleton or in pairs.)
+
 Exercise #2
 ~~~~~~~~~~~
 
@@ -42,6 +45,9 @@ Run, discuss, and annotate the order of execution and the state
 changes in variables for fib-fn.py, fib_mod, fib_iter, and fib_gen
 amongst yourselves (around the table, or in your own little hermited
 existence).
+
+(At the end of this exercise, we'll give you a link to some questions
+to answer in singleton or in pairs.)
 
 ---
 
