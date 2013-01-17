@@ -14,6 +14,8 @@ TA: Cait Pickens, picken19@msu.edu
 
 Office hours: TBA
 
+EDIT THIS PAGE.
+
 **Objectives:**
 
 In this course, you will learn how the Web works by writing a Web

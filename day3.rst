@@ -11,7 +11,7 @@ browser or on
 you can check this out on the CSE cluster by doing this::
 
    cd ~/
-   git clone https://github.com/ctb/cse491-numberz
+   git clone https://github.com/ctb/cse491-numberz.git
 
 This will create a directory 'cse491-numberz', into which you should change::
 
@@ -35,8 +35,7 @@ existence).  You can run these like so::
    cd series_mod
    python2.7 example.py
 
-(At the end of this exercise, we'll give you a link to some questions
-to answer in singleton or in pairs.)
+... `Survey link <https://docs.google.com/spreadsheet/viewform?formkey=dEtLblRmQUplWXZFUl9QelpNVXZIelE6MA#gid=0>`__
 
 Exercise #2
 ~~~~~~~~~~~
