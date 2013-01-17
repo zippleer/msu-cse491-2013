@@ -34,6 +34,7 @@ Class resources and homework:
    :maxdepth: 2
 
    hw1
+   day4
    day3
 
 Indices and tables
