@@ -27,7 +27,7 @@ Today!
 Look at the source code for exercise #2 from :doc:`day3`, and prepare
 to answer some questions about it.
 
-.. `Quizlet <https://docs.google.com/spreadsheet/viewform?formkey=dEhQTjVKbm9OSXdBaElCazNocnkzREE6MQ>`__
+`Quizlet <https://docs.google.com/spreadsheet/viewform?formkey=dEhQTjVKbm9OSXdBaElCazNocnkzREE6MQ>`__
 
 Iterators
 ~~~~~~~~~
