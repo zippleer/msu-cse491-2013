@@ -120,4 +120,4 @@ wherever) up on the github Web site under your account.
 .. Minute Cards
 .. ~~~~~~~~~~~~
 
-.. In the last 5 minutes of class, please fill out this `minute card survey <>`__.
+.. In the last 5 minutes of class, please fill out this `minute card survey <https://docs.google.com/spreadsheet/viewform?formkey=dHFMMmg5djBFMTFQV2paSlNtWG94X0E6MQ#gid=0>`__.
