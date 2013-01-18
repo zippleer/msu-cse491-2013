@@ -14,7 +14,7 @@ TA: Cait Pickens, picken19@msu.edu
 
 Office hours: TBA
 
-EDIT THIS PAGE.
+
 
 **Objectives:**
 
@@ -37,6 +37,7 @@ Class resources and homework:
    day4
    day3
    noteSheets  
+
 Indices and tables
 ==================
 
