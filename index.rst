@@ -36,7 +36,7 @@ Class resources and homework:
    hw1
    day4
    day3
-
+   noteSheets  
 Indices and tables
 ==================
 
