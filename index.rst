@@ -12,9 +12,7 @@ Instructor: C. Titus Brown, ctb@msu.edu, BPS 2228(c)
 
 TA: Cait Pickens, picken19@msu.edu
 
-Office hours: TBA
-
-
+Office hours: 6-8pm Tuesdays, or by arrangement; in 2228 BPS.
 
 **Objectives:**
 
