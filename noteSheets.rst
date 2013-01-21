@@ -1,8 +1,8 @@
 Useful websites
-==============
+===============
 
 git/SVN
-------
+-------
 
 A useful reference for git commands. If you know SVN you can search by the SVN command to find the git equivalent. 
 If you don't know SVN just search for the normal bash commands to find how to do it in git.
