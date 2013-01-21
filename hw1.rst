@@ -22,6 +22,9 @@ group distinct from those you work with in the class.
 
    Warning: code with syntax errors => 0 points.
 
+   Collect bad and/or buggy examples of code and submit them at the end
+   (see form in #5, below).
+
 2. Write at least six tests (three each) as in iter_bug/test.py for
    your iterator and generator implementations of the Sieve, and then
    add/commit/push them to your github repo.  These should be
@@ -39,3 +42,10 @@ group distinct from those you work with in the class.
    have this information :)
 
 4. Enter a pull request from your homework in your cse491-numberz to mine.
+
+5. Please fill out this form, too:
+
+   https://docs.google.com/spreadsheet/viewform?formkey=dHo3R3M3Z3Z4RGZ3dThqMmluaDlncUE6MQ
+
+(Note, the last question was added late.  So if you've already done
+the homework, don't worry about filling it in.)
