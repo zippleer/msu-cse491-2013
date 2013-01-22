@@ -70,7 +70,7 @@ this on Thursday anyway, however.
 
 Pre Survey
 ~~~~~~~~~~~~
-If you finish the in-class project, please take this 'pre-survey <https://docs.google.com/spreadsheet/viewform?formkey=dEg0LUVQMV82QjV2WGJfRzhHb2xBbHc6MQ#gid=0>' about your experience with topics we will be studying in the course.
+If you finish the in-class project, please take this `pre-survey <https://docs.google.com/spreadsheet/viewform?formkey=dEg0LUVQMV82QjV2WGJfRzhHb2xBbHc6MQ#gid=0>`__ about your experience with topics we will be studying in the course.
 
 Minute Cards
 ~~~~~~~~~~~~
