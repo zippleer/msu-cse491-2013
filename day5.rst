@@ -5,6 +5,7 @@ Rough schedule for today, summary:
  - announcement: syllabus updated; office hours Tuesday, 6-8pm, 2228 BPS
  - in-class project
  - minute cards (3:45)
+ - pre-survey
 
 Join the online chat for Q&A at: https://www.hipchat.com/gpAMmlQ4v
 
@@ -66,6 +67,10 @@ and share work, and thereby work in parallel on different tests and
 functions; if you want to do this talk to me and I'll show you how to
 pull from other people's repositories and merge.  We'll be discussing
 this on Thursday anyway, however.
+
+Pre Survey
+~~~~~~~~~~~~
+If you finish the in-class project, please take this 'pre-survey <https://docs.google.com/spreadsheet/viewform?formkey=dEg0LUVQMV82QjV2WGJfRzhHb2xBbHc6MQ#gid=0>' about your experience with topics we will be studying in the course.
 
 Minute Cards
 ~~~~~~~~~~~~
