@@ -1,4 +1,4 @@
-Day 5 -- Tu, Jan 30, 2013
+Day 7 -- Tu, Jan 29, 2013
 =========================
 
 Rough schedule for today, summary:
