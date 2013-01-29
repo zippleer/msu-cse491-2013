@@ -1,4 +1,4 @@
-Day 5 -- Tu, Jan 30, 2013
+Day 7 -- Tu, Jan 29, 2013
 =========================
 
 Rough schedule for today, summary:
@@ -158,7 +158,7 @@ merge into a new branch, which we'll call 'merge_script' ::
 Here the '-b' says, 'take my current branch and make a new copy,
 called merge_script'.  And then 'merge', of course, merges in the
 changes from the *other* branch.  When you do this merge, you should
-se the message 'Fast-forward', because 'script' is a descendant
+see the message 'Fast-forward', because 'script' is a descendant
 of 'master' and so there's no real "merging" being done -- you're
 just updating the commit that the name master points at to be
 the same as the commit that 'script' points at.  As we saw on Thursday,
